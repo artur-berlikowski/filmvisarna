@@ -9,20 +9,7 @@ app.use(express.static('public'));
 
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => {
-  res.render('index', {
-    pages: [
-      'home',
-    ],
-    libs: [
-      'carousel',
-      'trailer',
-      'dates'
-
-    ]
-  });
-});
-
+const homeRouter = require(path.resolve(__dirname + '/routes/home'));
 const aboutRouter = require(path.resolve(__dirname + '/routes/about'));
 const moviesRouter = require(path.resolve(__dirname + '/routes/movie'));
 const bookingRouter = require(path.resolve(__dirname + '/routes/booking'));
@@ -30,7 +17,7 @@ const receiptRouter = require(path.resolve(__dirname + '/routes/receipt'));
 const comingSoonRouter = require(path.resolve(__dirname + '/routes/coming_soon'));
 const playgroundRouter = require(path.resolve(__dirname + '/routes/playground'));
 
-
+app.use('/', homeRouter);
 app.use('/about', aboutRouter);
 app.use('/movie', moviesRouter);
 app.use('/booking', bookingRouter);
