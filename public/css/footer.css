@@ -1,0 +1,31 @@
+footer {
+  background-color: rgb(17, 17, 17);
+  padding: 15px;
+  text-align: center;
+  margin-top: auto;
+}
+
+#copyright {
+  color: rgb(192, 192, 192);
+  margin-top: 10px;
+}
+
+#social-media-links {
+padding: 5px;
+}
+.facebook {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.twitter {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.instagram {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.linkedin {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
