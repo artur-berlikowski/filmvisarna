@@ -25,7 +25,8 @@ body {
 }
 
 main {
-  margin-top: 8vh;
+  margin: 8vh;
+  padding: 4vh 0;
 }
 
 /* footer css */

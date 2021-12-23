@@ -10,7 +10,6 @@ router.get('/', (req, res) => {
       'carousel',
       'trailer',
       'dates'
-
     ]
   });
 });
