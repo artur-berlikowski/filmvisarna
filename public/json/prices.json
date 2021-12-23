@@ -1,0 +1,14 @@
+[
+  {
+    "customer": "barn",
+    "price": "65"
+  },
+  {
+    "customer": "vuxen",
+    "price": "85"
+  },
+  {
+    "customer": "pensionär",
+    "price": "75"
+  }
+]

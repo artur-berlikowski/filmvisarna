@@ -1,0 +1,118 @@
+/* STAGE 2*/
+.seat-booking {
+ display: flex;
+ flex-direction: column;
+ color: white;
+ align-items: center;
+ justify-content: center;
+ font-family: 'Lato', 'sans-serif';
+}
+
+.seat-booking .row {
+  padding: 0 !important;
+}
+
+/*SEATS*/
+.seat  {
+background-color: #444451;
+height: 12px;
+width: 15px;
+margin:3px;
+line-height: 12px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+
+.seat.selected {
+background-color: rgb(53, 163, 90);
+}
+
+.seat .selection-made {
+background-color: rgb(53, 163, 90);
+}
+
+.seat.occupied {
+background-color: rgb(141, 67, 67);
+}
+
+.seat:not(.occupied):hover {
+cursor:pointer;
+transform: scale(1.2);
+}
+
+.seat-container .row {
+ display: flex;
+ justify-content: center; 
+ align-items: center;
+}
+
+.movie-container {
+margin: 20px 0;
+
+}
+.movie-container select {
+background-color: white;
+border: 0;
+border-radius: 5px;
+font-size: 14px;
+margin-left:10px;
+padding:5px 15px 5px 15px;
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+
+}
+
+.showcase .seat:not(.occupied):hover {
+cursor: default;
+transform: scale(1);
+}
+
+.showcase {
+margin-top: 5px; 
+background-color: rgba(0, 0, 0, 0.1);
+padding: 5px 20px;
+border-radius: 5px;
+color:#777;
+list-style-type: none;
+display: flex;
+justify-content:space-between;
+}
+
+.showcase li {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 10px;
+}
+
+.showcase li small {
+margin-left: 10px;
+}
+
+.screen {
+background-color: white;
+height: 100px;
+width: 300px;
+margin: 15px 0;
+margin-left: auto;
+margin-right: auto;
+transform: rotateX(-45deg);
+box-shadow: 0 3px 10px rgba(255, 255, 255, 0.75 );
+}
+
+.seat-container {
+perspective: 1000px;
+margin-bottom: 30px;
+}
+
+p.text {
+  margin:5px 0;
+}
+
+p.text span {
+  color: #6feaf6;
+}
+
+
+

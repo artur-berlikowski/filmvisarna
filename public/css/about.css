@@ -1,0 +1,118 @@
+#about-us-page {
+  padding-top: 100px;
+}
+
+#about-us-img {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  color: #e1bd52;
+}
+
+#about-us {
+  color: white;
+}
+
+#contact-us {
+  padding-top: 30px;
+  color: white;
+}
+
+#about-us-info {
+  padding: 10px;
+}
+
+#opening-hours {
+  padding-top: 30px;
+}
+
+#auditoriums {
+  padding-top: 30px;
+}
+
+#prices {
+  padding-top: 30px;
+}
+
+#about-us-page .line {
+  border: solid 0.5px red;
+}
+
+ul li::marker {
+  color: #881414;
+}
+
+/*contact form css*/
+
+#contact-us {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 50%;
+  left: 50%;
+  max-width: 350px;
+  width: 100%;
+  background-color: rgb(41, 41, 41);
+  padding: 25px;
+  border-radius: 5px;
+}
+
+#contact-us h4 {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #e1bd52;
+}
+
+#contact-us .inputField {
+  margin-bottom: 10px;
+}
+
+#contact-us .inputField input[type="text"],
+#contact-us textarea {
+  width: 100%;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+#contact-us textarea {
+  height: 80px;
+  resize: none;
+}
+
+#contact-us .btn input[type="submit"]{
+  border: 0;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+  background: #881414;
+  border: 2px solid #881414;
+  font-family: ubuntu;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#contact-us .btn:hover input[type="submit"]{
+  border: 2px solid rgba(0,0,0,0.2);
+  background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+#contact-us #errorMessage {
+  margin-bottom: 20px;
+  padding: 0px;
+  background: #881414;
+  text-align: center;
+  font-size: 14px;
+  transition: all 0.5s ease;
+}

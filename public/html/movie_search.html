@@ -1,0 +1,35 @@
+<div id="movie_detailed" class="container">
+  <div class="row" align="center">
+    <div class="col-12">
+      <h1>Sök Filmer</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div id="movie_shows_input" class="col-12">
+      <table>
+        <tr>
+          <td><select id="input_movie" class="form-select" aria-label="select_movie"></select></td>
+          <td>
+            <div id="select_date">
+              <div class="input-group date">
+                <input type="text" class="form-control">
+                <span class="input-group-addon">
+                  <i class="glyphicon glyphicon-th"></i>
+                </span>
+              </div>
+              <input type="hidden" id="input_date">
+          </td>
+          <td><select id="input_age" class="form-select" aria-label="select_age"></select></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <table id="movie_shows_data" class="table table-light table-striped">
+        <thead id="head"></thead>
+        <tbody id="body"></tbody>
+      </table>
+    </div>
+  </div>
+</div>

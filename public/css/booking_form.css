@@ -1,0 +1,93 @@
+#booking_form .row {
+  padding: 2vh;
+}
+
+#booking_form .form-label {
+  color: white;
+  font-weight: bold;
+  font-size: 2vh;
+}
+
+#booking_form #datepicker {
+  color: white;
+}
+
+#booking_form #datepicker {
+  color: white;
+}
+
+#booking_form #datepicker thead {
+  font-size: 2vh;
+}
+
+#booking_form #datepicker thead .prev, #booking_form #datepicker thead .next {
+  color: #e1bd52;
+  line-height: 5vh;
+}
+
+#booking_form #datepicker thead .datepicker-switch {
+  border-radius: 0;
+}
+
+#booking_form #datepicker thead .datepicker-switch:hover {
+  background: none;
+}
+
+
+#booking_form #datepicker thead .prev:hover, #booking_form #datepicker thead .next:hover {
+  background: #624e12;
+}
+
+#booking_form #datepicker thead .prev {
+  border-radius: 1vh 0 0 1vh;
+}
+
+#booking_form #datepicker thead .next {
+  border-radius: 0 1vh 1vh 0;
+}
+
+#booking_form .total {
+  color: white;
+  font-weight: bold;
+  font-size: 3vh;
+}
+
+#booking_form .total span {
+  color: #e1bd52;
+}
+
+#booking_form #people_select_info {
+  margin-top: 1vh;
+}
+
+#booking_form #people_select_info span {
+  margin-left: 1vh;
+}
+
+#booking_form .price-value {
+  color: #e1bd52;
+}
+
+#booking_form #booking_form_menu button, #booking_form #booking_form_menu button:active, #booking_form #booking_form_menu button:focus {
+    font-family: ubuntu;
+    font-size: 1,5vh;
+    font-weight: bold;
+    line-height: 5vh;
+    border: 2px solid #510f0f;
+    background: linear-gradient(to bottom, #881414, #510f0f);
+}
+
+#booking_form #booking_form_menu button:active, #booking_form #booking_form_menu button:focus, #booking_form #booking_form_menu button:target {
+    outline: none;
+    box-shadow: none;
+}
+
+#booking_form #booking_form_menu button:hover {
+  border: 2px solid #624e12;
+  background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+#booking_form #booking_form_menu button span {
+    line-height: 32px;
+    margin: 0 0 0 1vh;
+}

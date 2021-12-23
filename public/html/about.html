@@ -1,0 +1,71 @@
+<img id="about-us-img" src="image/salong.jpg" class="rounded mx-auto d-block" alt="...">
+
+<div id="about-us-page" class="container">
+
+  <div class="row">
+    <div class="col-sm-6 mx-auto">
+
+      <div id="about-us">
+        <h1>Filmvisarna</h1>
+        <hr class="line">
+        <div id="about-us-info">
+          <p>Filmvisarna AB är en ny biografkedja med ett par biografsalonger i Småstad. Vi är en av Sveriges ledande
+            leverantörer av kultur och nöje.</p>
+
+          <div id="opening-hours">
+            <h4>Öppetider</h4>
+            <ul>
+              <li>Mån - Fre - kl 13:30-23:00</li>
+              <li>Lör - Sön - kl 12.00-23.00</li>
+            </ul>
+          </div>
+
+          <div id="auditoriums">
+            <h4>Våra två salonger</h4>
+            <ul id="auditorium-list"></ul>
+          </div>
+
+          <div id="prices">
+            <h4>Boknings priser</h4>
+            <ul id="prices-list"></ul>
+          </div>
+        </div>
+        <hr class="line">
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-6 mx-auto" align="center">
+      <div id="contact-us">
+        <h4>Kontakta Oss</h4>
+        <div id="errorMessage"></div>
+
+        <form action="contactForm" onsubmit="return validate();">
+          <div class="inputField">
+            <input type="text" placeholder="Namn" id="name">
+          </div>
+          <div class="inputField">
+            <input type="text" placeholder="Ämne" id="subject">
+          </div>
+          <div class="inputField">
+            <input type="text" placeholder="Mobilnummer" id="phone">
+          </div>
+          <div class="inputField">
+            <input type="text" placeholder="Email" id="email">
+          </div>
+          <div class="inputField">
+            <textarea id="message" placeholder="meddelande"></textarea>
+          </div>
+          <div class="btn">
+            <input type="submit" value="Skicka">
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 mx-auto">
+    <hr class="line" padding-top="30px">
+  </div>
+</div>
+<script src="js/about.js"></script>

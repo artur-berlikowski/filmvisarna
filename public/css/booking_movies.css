@@ -1,0 +1,73 @@
+#movie_container {
+  margin: 4vh 0 0 2vh;
+}
+
+#movie_container div[class^="col-"] {
+  padding: 0;
+}
+
+#movie_container .movie:not(:first-child) {
+  margin-top: 1vh;
+}
+
+#movie_container .content {
+  background: #111111;
+  border-radius: .5vh .5vh 0 .5vh;
+  padding: 1vh;
+}
+
+#movie_container #image {
+  max-width: 192px;
+  border-radius: .5vh;
+}
+
+#movie_container #info {
+  padding: 1vh 0 0 0;
+  margin-left: 1vh;
+}
+
+#movie_container #info h4 {
+  color: #fff;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+#movie_container #info p {
+  font-size: 1.2em;
+  color: #fff;
+  font-weight: 300;
+}
+
+#movie_container #menu {
+  background: #111111;
+  padding: 0 .75vh .75vh .75vh;
+  border-radius: 0 0 .5vh .5vh;
+}
+
+#movie_container #menu button {
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: white;
+  line-height: 32px;
+  padding: .75vh;
+  border-radius: .5vh;
+  margin: 0;
+}
+
+#movie_container #menu button:active, #movie_container #menu button:focus, #movie_container #menu button:target {
+    outline: none;
+    box-shadow: none;
+}
+
+#movie_container #menu button:hover {
+    border: 2px solid rgba(0,0,0,0.2);
+    background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+#movie_container #menu button span {
+    line-height: 32px;
+    margin: 0 0 0 0.5vh;
+}

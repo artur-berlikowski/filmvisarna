@@ -1,0 +1,44 @@
+.modal-header {
+    background: white;
+}
+
+.trailer-title {
+    color: #161616;
+}
+
+.modal-dialog{
+    position: relative;
+    display: table;
+    overflow-y: auto;    
+    overflow-x: auto;
+    width: auto;
+    min-width: 300px;   
+}
+
+.modal-content {
+   background: #161616;
+}
+
+.trailer-button, .trailer-button:active, .trailer-button:focus {
+    background: #881414;
+    border: 2px solid #510f0f;
+    font-family: ubuntu;
+    font-size: 1.5vh;
+    font-weight: bold;
+}
+
+.trailer-button:active, .trailer-button:focus, .trailer-button:target {
+    outline: none;
+    box-shadow: none;
+}
+
+.trailer-button:hover {
+    border: 2px solid rgba(0,0,0,0.2);
+    background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+.trailer-button span {
+    line-height: 32px;
+    margin: 0 0 0 0.5vh;
+}
+

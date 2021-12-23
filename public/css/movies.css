@@ -1,0 +1,127 @@
+.card-text{
+  color: white;
+}
+
+.card-title{
+  color: white;
+}
+
+.card{
+  margin-top: 10px;
+  margin-left: 15px;
+  background-color: rgba(0, 0, 0, 0.9);
+  border-radius: 24px;
+  margin-bottom: 20px;
+}
+
+.movieimg{
+  height:45vh;
+  width: auto;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.movie-card-body{
+  height: 100px;
+}
+
+.movie-button-container {
+  padding-bottom: 25px;
+}
+
+#MovieButton_1, #MovieButton_2, #MovieButton_3, #MovieButton_4, #MovieButton_5 {
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 1.5vh;
+  font-weight: bold;
+}
+
+#MovieButton_1:hover, #MovieButton_2:hover, #MovieButton_3:hover, #MovieButton_4:hover, #MovieButton_5:hover {
+  border: 2px solid rgba(0,0,0,0.2);
+  background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+
+/*Movie info page CSS*/
+.movie-info .card-body {
+  background: #191919;
+  border-radius: 24px;
+}
+
+.movie-info .movie-title {
+  font-size: xxx-large;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.movie-info .info-text {
+  color: white;
+  font-size: large;
+  margin-top: 20px;
+}
+
+.movie-info .line {
+  border: solid 0.5px red;
+}
+
+.movie-info .image {
+  height: auto;
+  width:100%;
+  margin-top: 15px;
+  border: solid 2px #630909;
+}
+
+.movie-info .category {
+  color: grey;
+  font-size: medium;
+  text-decoration: none;
+}
+
+.movie-info .value {
+  font-size: large;
+   color: white;
+}
+
+.movie-info .menu button {
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: white;
+  line-height: 32px;
+  padding: .75vh;
+  border-radius: .5vh;
+}
+
+.movie-info .menu button:active, .movie-info .menu button:focus, .movie-info .menu button:target {
+    outline: none;
+    box-shadow: none;
+}
+
+.movie-info .menu button:hover {
+    border: 2px solid rgba(0,0,0,0.2);
+    background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+.movie-info .menu button span {
+    line-height: 32px;
+    margin: 0 0 0 0.5vh;
+}
+
+.movie-info a {
+  text-decoration: none;
+}
+
+.movie-info #rating {
+  color: white;
+  padding-top: 10px;
+}
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+#view_booking_container{
+margin-left: 20px;
+margin-top: 100px;
+}
+
+.view_bookings_row{
+  margin-top: 10px;
+}
+
+#display_view_booking_container{
+  margin-top: 25px;
+  color: white;
+}
+
+/*booking_search.html*/
+#searchBooking {
+  padding: 4vh 0 0 0;
+}
+
+#form_container {
+  padding: 3vh;
+}
+
+#searchBooking #error {
+  padding: 1vh;
+}
+
+#searchBooking #error p {
+  line-height: 40px;
+}
+
+#searchBooking #result {
+  color: white;
+  font-size: medium;
+  text-decoration: none;
+}
+
+#searchBooking #result span {
+  font-size: 2vh;
+  color: #e1bd52;
+  font-weight: bold;
+}
+
+#searchBooking #result p #booking_number {
+  color: #881414;
+  font-size: 5vh;
+  line-height: 5vh;
+  font-weight: bold;
+}
+
+#searchBooking #error p span {
+  margin-left: 1.5vh;
+}
+
+#searchBooking button {
+  margin-top: 2vh;
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: white;
+  line-height: 32px;
+  padding: .75vh 1.5vh .75vh 1.5vh;
+  border-radius: .5vh;
+}
+
+#searchBooking button:active, #searchBooking button:focus, #searchBooking button:target {
+    outline: none;
+    box-shadow: none;
+}
+
+#searchBooking button:hover {
+    border: 2px solid rgba(0,0,0,0.2);
+    background: linear-gradient(to bottom, #e1bd52, #624e12);
+}
+
+#searchBooking button span {
+    line-height: 32px;
+    margin-left: 1vh;
+}
+
+#confirm_text{
+  color: white;
+}

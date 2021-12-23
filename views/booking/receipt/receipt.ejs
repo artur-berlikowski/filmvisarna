@@ -1,0 +1,94 @@
+<div id="recieptContainer" class="container">
+  <div id="logo" class="row">
+    <div class="col-2 mx-auto">
+      <img class="img-fluid" src="/image/logo.svg">
+    </div>
+  </div>
+  <div id="bigText" class="row">
+    <div class="col">
+      <h1>Tack för din bokning</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div id="movieTitel" class="col">
+      <h3>
+        <%= locals.data.movie || '' %>
+      </h3>
+    </div>
+  </div>
+  <hr id="receiptHr">
+  <div class="bookingDetails">
+
+    <div id="bookingDetailsUpper" class="row">
+      <div class="col-md-4 ">
+        <h4>Datum:</h4>
+        <p>
+          <%= locals.data.date || '' %>
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h4>Tid:</h4>
+        <p>
+          <%= locals.data.time || '' %>
+        </p>
+      </div>
+      <div class="col">
+        <h4>Bokningsnummmer:</h4>
+        <p>
+          <%= locals.data.number || '' %>
+        </p>
+      </div>
+    </div>
+    <div id="bookingDetailsMiddle" class="row">
+      <div class="col-md-4">
+        <h4>Salong:</h4>
+        <p>
+          <%= locals.data.auditorium || '' %>
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h4>Pris:</h4>
+        <p>
+          <%= locals.data.price || '' %> kr
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h4>Antal platser:</h4>
+        <p>
+          <%= locals.data.seats.length || '' %>
+        </p>
+      </div>
+    </div>
+
+    <div id="bookingDetailsBottom" class="row">
+      <div class="col-md-4">
+        <h4>Radnummer:</h4>
+        <p>5</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Stolsnummer:</h4>
+        <p>
+          <%= locals.data.seats || '' %>
+        </p>
+      </div>
+      <div id="visitors" class="col-md-4">
+        <h4>Besökare:</h4>
+        <p>
+          <%= 'Vuxna: ' + locals.data.tickets_adult || '' %>
+        </p>
+        <p>
+          <%= 'Barn: ' + locals.data.tickets_child || '' %>
+        </p>
+        <p>
+          <%= 'Pensionärer: ' + locals.data.tickets_pensioner || '' %>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col text-center">
+      <a id="receiptButton" class="btn btn-default btn-lg" href="http://localhost:3000/">Tillbaka</a>
+    </div>
+  </div>
+</div>

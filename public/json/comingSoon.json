@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "The King's Man",
+    "premier": "5 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/c421eaabb124478f808978684c050fec.jpg?width=240&version=52EE0703BF62A0DCFA1F43851764DEBD&format=webp",
+    "trailerEmbed": "//www.youtube.com/embed/5zdBG-iGfes",
+    "ageLimit": "15 år",
+    "genre": "Action, Äventyr, Komedi"
+  },
+  {
+    "id": 2,
+    "title": "Spencer",
+    "premier": "7 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/118251a6d4ad4469b8dc8ef73c6fe47b.jpg?width=240&version=47DAC4F438D6206716798F238BFC3D21&format=webp",
+    "trailerEmbed": "//www.youtube.com/embed/WllZh9aekDg",
+    "ageLimit": "11 år",
+    "genre": "Drama"
+  },
+  {
+    "id": 3,
+    "title": "Sword Art Online: Progressive - Aria of a Starless Night",
+    "premier": "7 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/01691481cbe1482f8f4c8063510f9c6f.jpg?width=240&version=A19103CA7793183CD8B9765948343211&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/T24VvO0JKzo",
+    "ageLimit": "11 år",
+    "genre": "Anime, Action, Äventyr"
+  },
+  {
+    "id": 4,
+    "title": "The Alpinist",
+    "premier": "7 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/c13c1aa5be6f4290b4903c576c86d63b.jpg?width=240&version=4028BA10BCBA8725C0750A2156494955&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/SRpVyzagXLQ",
+    "ageLimit": "15 år",
+    "genre": "Dokumentär"
+  },
+  {
+    "id": 5,
+    "title": "Jag är Zlatan",
+    "premier": "14 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/ea33a0786df44ae3ba11b00cbf4c9c45.jpg?width=240&version=72C5A354FCD4FC504ED7C720777F50F5&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/MYXNGINlpVU",
+    "ageLimit": "7 år",
+    "genre": "Drama"
+  },
+  {
+    "id": 6,
+    "title": "Pelle Kanin 2 - På rymmen",
+    "premier": "14 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/23d11a0d5a444f8fa243a96eb1d767a1.jpg?width=240&version=2FEA3282E91CCDE1DA464E1BFBD3CAF0&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/r-UDtBrbnHc",
+    "ageLimit": "7 år",
+    "genre": "Animerat, Äventyr, Familj"
+  },
+  {
+    "id": 7,
+    "title": "Scream",
+    "premier": "14 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/13ecb1a50dbf4f548def6c66873e4745.jpg?width=240&version=0C187AAC9098FAF15BFBA105429E27E0&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/beToTslH17s",
+    "ageLimit": "15 år",
+    "genre": "Skräck, Thriller"
+  },
+  {
+    "id": 8,
+    "title": "Agents 355",
+    "premier": "21 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/a682cc1d54ba43a6ad305a42bbe4a491.jpg?width=240&version=715A663046D946D3CA8704EE1E6A9310&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/SV0s2S9reT0",
+    "ageLimit": "15 år",
+    "genre": "Thriller, Action"
+  },
+  {
+    "id": 9,
+    "title": "Aja baja Alfons Åberg",
+    "premier": "21 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/bb652b60ef5147d8bf9125e44931ae27.jpg?width=240&version=9B56DF2153F416D7AA5428FF5A3CE850&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/XLMgW87bhew",
+    "ageLimit": "Barntillåten",
+    "genre": "Barn"
+  },
+  {
+    "id": 10,
+    "title": "Belfast",
+    "premier": "21 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/00de9ec605394b6ab0a6e3913c1c51b9.jpg?width=240&version=E1371617DA21FA85E5859CBDDCA8A0FB&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/Ja3PPOnJQ2k",
+    "ageLimit": "11 år",
+    "genre": "Drama"
+  },
+  {
+    "id": 11,
+    "title": "Monsterfamiljen - Ingen är perfekt",
+    "premier": "28 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/3080fbceecd74b41bdd80821408257b6.jpg?width=240&version=8F681EFB0CA72F95E7B020442C64938D&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/sXYu6Cnb5Z4",
+    "ageLimit": "7 år",
+    "genre": "Animerat, Äventyr, Barn, Familj, Komedi"
+  },
+  {
+    "id": 12,
+    "title": "Morbius",
+    "premier": "28 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/c6928cad424d4aa3b2578754a2f0bcad.jpg?width=240&version=07F5046CC06A9636B59C077E176333D1&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/oZ6iiRrz1SY",
+    "ageLimit": "15 år",
+    "genre": "Action, Äventyr, Drama"
+  },
+  {
+    "id": 13,
+    "title": "Nightmare Alley",
+    "premier": "28 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/e2eda15b59bd422f966d76d5fb9b7f56.jpg?width=240&version=26EF5B5D5A31D1941E59BA1931CC0CE8&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/Q81Yf46Oj3s",
+    "ageLimit": "15 år",
+    "genre": "Action, Crime, Drama"
+  },
+  {
+    "id": 14,
+    "title": "Ur spår",
+    "premier": "28 jan 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/6ec0f656af814122993a7fcb69aa577d.jpg?width=240&version=6D0435DE60ED42300EE1B9636FB0EEAE&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/KAD8V2Uxwd0",
+    "ageLimit": "Barntillåten",
+    "genre": "Komedi"
+  },
+  {
+    "id": 15,
+    "title": "Bill Murray's New Worlds",
+    "premier": "2 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/d30f1075278f4b828c39e7bfe5329dde.jpg?width=240&version=877D3529A48401390248939D3EE8B27F&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/l94Ky7cYrZg",
+    "ageLimit": "Barntillåten",
+    "genre": "Konsert"
+  },
+  {
+    "id": 16,
+    "title": "Moonfall",
+    "premier": "4 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/6efde39facf14f418c32d05d8cefccf5.jpg?width=240&version=4B93CD4296AEA4F36630BDA3F1AD699F&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/xx97DuHGr2o",
+    "ageLimit": "15 år",
+    "genre": "Action, Äventyr, Sci-Fi"
+  },
+  {
+    "id": 17,
+    "title": "Parallella mödrar",
+    "premier": "4 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/39254261ded84619ab82a66edc612b20.jpg?width=240&version=7CF89CFE7DC3DD1558AE38FECE5758F7&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/mt8QRVtxslA",
+    "ageLimit": "11 år",
+    "genre": "Drama"
+  },
+  {
+    "id": 18,
+    "title": "Döden på Nilen",
+    "premier": "11 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/8399d1b836154abca1d6d5ed0ebc48b0.jpg?width=240&version=514B90CF61363E3C45B722719984C124&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/JM1U-Whb-P0",
+    "ageLimit": "11 år",
+    "genre": "Drama, Äventyr"
+  },
+  {
+    "id": 19,
+    "title": "Uncharted",
+    "premier": "16 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/5362bb0b837443b792b186932d968bb5.jpg?width=240&version=3F32FC4C04448B08E69F880131C29E70&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/eHp3MbsCbMg",
+    "ageLimit": "11 år",
+    "genre": "Action, Äventyr"
+  },
+  {
+    "id": 20,
+    "title": "De oskyldiga",
+    "premier": "18 feb 2022",
+    "image": "https://catalog.cinema-api.com/cf/images/ncg-images/2e0fc370c260467fbc7619f28561cd53.jpg?width=240&version=4EF9040553779E8E204A3BA989E22A09&format=webp",
+    "trailerEmbed": "https://www.youtube.com/embed/n6vvdNd0Y6c",
+    "ageLimit": "15 år",
+    "genre": "Thriller"
+  }
+]

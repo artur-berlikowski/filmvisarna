@@ -1,0 +1,18 @@
+[
+  {
+    "tickets_adult": 1,
+    "tickets_child": 1,
+    "tickets_pensioner": 1,
+    "movie": "Alltid nära dig",
+    "date": "2021-12-30",
+    "time": "17:00",
+    "auditorium": "Lilla Salongen",
+    "seats": [
+      38,
+      39,
+      40
+    ],
+    "price": 225,
+    "number": "F2021123024805546028"
+  }
+]

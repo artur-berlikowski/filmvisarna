@@ -1,0 +1,63 @@
+@import url('navbar.css');
+@import url('carousel.css');
+@import url('booking_receipt.css');
+@import url('trailer.css');
+@import url('movies.css');
+@import url('about.css');
+@import url('booking.css');
+@import url('booking_view.css');
+@import url('booking_form.css');
+@import url('booking_movies.css');
+@import url('booking_stage.css');
+@import url('date_generator.css');
+@import url('movie_search.css');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('http://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('coming_soon.css');
+
+body {
+  background: rgba(0,0,0,0.9);
+
+  /* makes footer stay on bottom */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  margin-top: 8vh;
+}
+
+/* footer css */
+
+footer {
+  background-color: rgb(17, 17, 17);
+  padding: 15px;
+  text-align: center;
+  margin-top: auto;
+}
+
+#copyright {
+  color: rgb(192, 192, 192);
+  margin-top: 10px;
+}
+
+#social-media-links {
+padding: 5px;
+}
+.facebook {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.twitter {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.instagram {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}
+.linkedin {
+  filter: brightness(0) invert(1);
+  margin: 10px;
+}

@@ -1,0 +1,110 @@
+#dateContainer{
+margin-top:10px;
+}
+#dateContainer .head{
+font-size: 50px;
+font-family: 'Lato', 'sans-serif';
+align-items: center;
+text-align: center;
+}
+#dateContainer .data {
+margin-top:5vh;
+color: white;
+font-family: 'Lato', 'sans-serif';
+width: 70%;
+float: right;
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+margin-bottom: 15px;
+border-bottom: 1px solid red ;
+}
+.line {
+border-bottom: 3px solid red;
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+}
+.line1 {
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+border-bottom: 1px solid red ;
+}
+#dateContainer .imageGenerator {
+float: left;
+padding-top: 1.4vh;
+padding-left: 1vh;
+width: 9%;
+}
+#dateContainer .accordion-body1 {
+background: rgba(0,0,0,0.9);
+color: white;
+}
+.buttonContainer .accordion-button {
+color: white;
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+ background: #881414;
+}
+#dateContainer .accordion-button {
+font-size: 20px;
+}
+#dateContainer .p-2 {
+background-color: #881414;
+font-size: 3vh;
+font-family: 'Lato', 'sans-serif';
+}
+#dateContainer .vid {
+margin-right: 1.5vh;
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+float: left;
+width: 25%;
+margin-top:5vh;
+}
+
+
+#dateContainer .film {
+font-size: 30px;
+align-items: center;
+text-align: center;
+}
+#dateContainer .aud {
+font-size: 20px;
+align-items: center;
+text-align: center;
+}
+ #dateContainer .time {
+font-size: 20px;
+margin-bottom: 1vh;
+align-items: center;
+text-align: center;
+}
+
+#dateContainer .monday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .tuesday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .wednesday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .thursday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .friday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .saturday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .sunday {
+background: rgba(0,0,0,0.9);
+}
+#dateContainer .headerStyle {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.babyBossImg {
+
+margin-right: 1.5vh;
+box-shadow: 0 3px 10px rgba(134, 89, 89, 0.75);
+float: left;
+margin-top:5vh;
+height: 39%;
+width: 25%;
+}

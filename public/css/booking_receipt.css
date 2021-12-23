@@ -1,0 +1,80 @@
+
+#logo {
+  padding-top: 20px;
+}
+
+#bigText h1 {
+  color: #e1bd52;
+  text-align: center;
+  font-size:calc(12px + 1.5vw);
+}
+
+#movieTitel h3 {
+  text-align: center;
+   color: #dbdddb;
+   padding-top: 5px;
+   padding-bottom: 0px;
+   font-size:calc(10px + 1.5vw);
+}
+
+#receiptHr {
+  border-top: 2px solid #dbdddb;
+}
+
+@media (max-width: 768px){
+  #movieTitel h3 {
+    font-size: 25px;
+  }
+}
+
+.bookingDetails p {
+  text-align: center;
+  color: #dbdddb;
+  font-size:calc(5px + 1.5vw);
+}
+
+@media (max-width: 768px){
+  .bookingDetails p {
+  font-size: 20px;
+  margin-bottom: 7px;
+}
+}
+
+.bookingDetails h4 {
+  text-align: center;
+   color: #dbdddb79;
+   font-size:calc(5px + 1.5vw);
+   margin-bottom: 0px;
+}
+
+@media (max-width: 768px){
+  .bookingDetails h4 {
+  color: #dbdddb79;
+  font-size: 20px;
+}
+}
+
+
+#visitors p {
+margin-bottom: 0px;
+}
+
+#visitors {
+padding-bottom: 20px;
+}
+
+#receiptButton {
+  color: white;
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 2.5vh;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  #receiptButton {
+    font-size: 2.0vh;
+  }
+}

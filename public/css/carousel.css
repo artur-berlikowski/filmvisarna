@@ -1,0 +1,25 @@
+.carousel-item {
+  min-height: 50vh;
+}
+
+.carousel-caption h5 {
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+  font-size: 2vh;
+}
+
+.carousel-caption p {
+  background: rgba(0,0,0,0.45);
+  border-radius: 1vh;
+  padding: 0.5vh;
+  float: left;
+  font-size: 1.5vh
+}
+
+#carouselTitle {
+  font-family: ubuntu;
+  font-size: 2vh;
+  color: rgba(255,255,255,0.85);
+  font-weight: 600;
+}

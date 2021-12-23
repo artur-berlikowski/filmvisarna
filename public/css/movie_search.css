@@ -1,0 +1,23 @@
+#movie_detailed #movie_shows_input {
+  width: 100%;
+  margin: 2vh 0 2vh 0;
+}
+
+#movie_detailed #movie_shows_data {
+  width: 100%;
+  margin: 2vh 0 2vh 0;
+}
+
+#movie_detailed #select_date span {
+  min-width: 40px;
+  min-height: 38px;
+  background-color: #f8f9fa;
+  background-image: url('./../image/icon_datepicker.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 0 .5vh .5vh 0;
+}
+
+#movie_detailed #select_date span:hover {
+  cursor: pointer;
+}

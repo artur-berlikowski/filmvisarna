@@ -1,0 +1,694 @@
+[
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-03",
+    "time": "16:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-03",
+    "time": "16.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-03",
+    "time": "17:50"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-03",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-03",
+    "time": "20:40"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-03",
+    "time": "20:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-04",
+    "time": "16:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-04",
+    "time": "16.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-04",
+    "time": "18:50"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-04",
+    "time": "17:50"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-04",
+    "time": "21:40"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-04",
+    "time": "19:50"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-05",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-05",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-05",
+    "time": "19:50"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-05",
+    "time": "19:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-06",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-06",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-06",
+    "time": "18:50"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-07",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Dune",
+    "date": "2021-12-07",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-07",
+    "time": "19:00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-08",
+    "time": "17:00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-08",
+    "time": "17:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-08",
+    "time": "19:50"
+  },
+  {
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-09",
+    "time": "17:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-09",
+    "time": "17:00"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-09",
+    "time": "19:50"
+  },
+  {
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-10",
+    "time": "17:00"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "Eternals",
+    "date": "2021-12-10",
+    "time": "17:00"
+  },
+  {
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-10",
+    "time": "19:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-10",
+    "time": "19:50"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-11",
+    "time": "17:00"
+  },
+  {
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Lilla Salongen",
+    "film": "Dune",
+    "date": "2021-12-11",
+    "time": "17:00"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-11",
+    "time": "18:50"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-12",
+    "time": "17:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-12",
+    "time": "17:00"
+  },
+  {
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-12",
+    "time": "19:00"
+  },
+  {
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-13",
+    "time": "17:00"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "Eternals",
+    "date": "2021-12-13",
+    "time": "17:00"
+  },
+  {
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-13",
+    "time": "19:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-14",
+    "time": "17:00"
+  },
+  {
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-14",
+    "time": "17:00"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-14",
+    "time": "18:50"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-15",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-15",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-15",
+    "time": "19:50"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-16",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-16",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-16",
+    "time": "19:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-17",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Lilla Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-17",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-17",
+    "time": "19:50"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-18",
+    "time": "17:00"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Lilla Salongen",
+    "film": "Dune",
+    "date": "2021-12-18",
+    "time": "17:00"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-18",
+    "time": "18:50"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-19",
+    "time": "17:00"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "Eternals",
+    "date": "2021-12-19",
+    "time": "17:00"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-19",
+    "time": "18:50"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-20",
+    "time": "17:00"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-20",
+    "time": "17:00"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-20",
+    "time": "19:50"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-21",
+    "time": "17:00"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-21",
+    "time": "17:00"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-21",
+    "time": "19:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-22",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Lilla Salongen",
+    "film": "Dune",
+    "date": "2021-12-22",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-22",
+    "time": "19:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-23",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Lilla Salongen",
+    "film": "Dune",
+    "date": "2021-12-23",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-23",
+    "time": "18:50"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-24",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-24",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-24",
+    "time": "19:00"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-25",
+    "time": "17:00"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-25",
+    "time": "17:00"
+  },
+  {
+    "day": "Lördag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-25",
+    "time": "18:50"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-26",
+    "time": "17:00"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "Eternals",
+    "date": "2021-12-26",
+    "time": "17:00"
+  },
+  {
+    "day": "Söndag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-26",
+    "time": "19:50"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-27",
+    "time": "17:00"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-27",
+    "time": "17:00"
+  },
+  {
+    "day": "Måndag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-27",
+    "time": "19:00"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-28",
+    "time": "17:00"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-28",
+    "time": "17:00"
+  },
+  {
+    "day": "Tisdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-28",
+    "time": "19:50"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "CODA",
+    "date": "2021-12-29",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "Eternals",
+    "date": "2021-12-29",
+    "time": "17:00"
+  },
+  {
+    "day": "Onsdag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-29",
+    "time": "19:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://www.nfbio.se/sites/nfbio.se/files/styles/movie_poster/public/movie-posters/HO00000398_326369.jpg?itok=BdwY0sqo",
+    "auditorium": "Stora Salongen",
+    "film": "Dune",
+    "date": "2021-12-30",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Lilla Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-30",
+    "time": "17:00"
+  },
+  {
+    "day": "Torsdag",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "auditorium": "Stora Salongen",
+    "film": "Eternals",
+    "date": "2021-12-30",
+    "time": "19:50"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://catalog.cinema-api.com/cf/images/ncg-images/156e1c728c0e4158b85eaa7236de17cf.jpg?width=240&version=AEF2B771F19E95BF429F626A91D95BEC&format=webp",
+    "auditorium": "Stora Salongen",
+    "film": "Baby-bossen 2: Familjeföretaget",
+    "date": "2021-12-31",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/411986/409aa595750de2a1d4dbff1b6607bbf1-coda.jpg",
+    "auditorium": "Lilla Salongen",
+    "film": "CODA",
+    "date": "2021-12-31",
+    "time": "17:00"
+  },
+  {
+    "day": "Fredag",
+    "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/401348/59f2b2fa04650372735a7fce71ebd68c-40916-facing-SE-340x513.png",
+    "auditorium": "Stora Salongen",
+    "film": "Alltid nära dig",
+    "date": "2021-12-31",
+    "time": "19:00"
+  }
+]

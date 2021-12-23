@@ -1,0 +1,54 @@
+@media (min-width: 1200px) {
+    #allContent{
+        max-width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #movieInfo{
+        max-width: 970px;
+    }
+}
+
+#allContent h1 {
+    padding: 30px;
+}
+
+#allContent hr {
+    border-top: 5px solid #dbdddb;
+}
+
+#movieInfo h2 {
+    color:white;
+    padding-top: 10px;
+}
+
+@media (max-width: 720px) {
+    #movieInfo h2{
+      padding-top: 5px;  
+    }
+}
+
+#movieInfo p {
+    color: rgb(206, 191, 191);
+}
+
+/*#commingSoonTrailerButton {
+  color: white;
+  background: #881414;
+  border: 2px solid #510f0f;
+  font-family: ubuntu;
+  font-size: 2.5vh;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  #commingSoonTrailerButton {
+    font-size: 2.0vh;
+  }
+}*/
+
+#movieInfo hr {
+    border-top: 2px solid #dbdddb;
+}

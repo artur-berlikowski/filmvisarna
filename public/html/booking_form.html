@@ -1,0 +1,78 @@
+<movies>
+  <div class="container">
+    <div class="row">
+      <div id="movie_container" class="col-12"></div>
+    </div>
+  </div>
+</movies>
+<div id="booking_form" class="container">
+  <div class="row">
+    <div class="col-12">
+      <div id="select_movie" class="row">
+        <div class="col-12">
+          <label for="input_movie" class="form-label">Film</label>
+          <select id="input_movie" class="form-select" aria-label="Välj film"></select>
+        </div>
+      </div>
+      <div id="select_date" class="row">
+        <div class="col-12">
+          <div class="mb-3">
+            <label for="input_date" class="form-label">Datum</label>
+            <div id="datepicker" class="datepicker"></div>
+            <input type="hidden" id="input_date">
+          </div>
+        </div>
+      </div>
+      <div id="select_time" class="row">
+        <div class="col-12">
+          <label for="input_time" class="form-label">Tid</label>
+          <select id="input_time" class="form-select" aria-label="Välj film"></select>
+        </div>
+      </div>
+      <div id="no_show" class="row">
+        <p class="text-warning">"<span id="no_show_title" class="text-info">Movie Title</span>" har inga visningar <span
+            id="no_show_date" class="text-info">yyyy-mm-dd</span>.</p>
+      </div>
+      <div id="select_people" class="row">
+        <div id="people_select_total" class="total">
+          <p>Antal personer ( <span>0</span> )</p>
+        </div>
+        <div id="people_select_price" class="total">
+          <p>Pris Totalt ( <span>0</span> kr )</p>
+        </div>
+        <div class="col-12">
+          <label for="input_child" class="form-label">Vuxna(<span id="amount_adult">0</span>), <span class="price-value"
+              id="price_adult">0</span>kr</label>
+          <input type="range" class="form-range" min="0" max="6" id="input_adult">
+          <label for="input_adult" class="form-label">Barn(<span id="amount_child">0</span>), <span class="price-value"
+              id="price_child">0</span>kr</label>
+          <input type="range" class="form-range" min="0" max="6" id="input_child">
+          <label for="input_pensioner" class="form-label">Pensionärer(<span id="amount_pensioner">0</span>),
+            <span class="price-value" id="price_pensioner">0</span>kr</label>
+          <input type="range" class="form-range" min="0" max="6" id="input_pensioner">
+        </div>
+        <h6 id="people_select_info" class="text-info"><img src="/image/info_sign.svg"><span>Tänk på att man kan vara
+            maximalt sex personer per sällskap/bokning.</span></h1>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div id="auditorium_container" class="col-12"></div>
+    </div>
+  </div>
+  <div id="booking_form_menu" class="row">
+    <div class="col-12">
+      <div class="row">
+        <div class="md-col-6" align="left">
+          <button id="confirm_booking_button" type="button" class="btn btn-secondary"><img
+              src="/image/book_seat_button.svg"><span>Bekräfta Bokning</span></button>
+        </div>
+        <div class="md-col-6" align="right">
+          <button id="cancel_booking_button" type="button" class="btn btn-secondary"><img
+              src="/image/close_button.svg"><span>Avbryt Bokning</span></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

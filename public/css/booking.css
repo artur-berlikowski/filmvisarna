@@ -1,0 +1,34 @@
+#search_booking_btn{
+  background-color: #881414;
+  border: #881414;
+  padding: 10px;
+  font-size: 20px;
+  font-family: ubuntu;
+}
+
+.boka {
+  width: 100%;
+  height: 1100px;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+  justify-content: center;
+
+}
+.seat {
+background-color: #444451;
+height: 12px;
+width: 15px;
+margin:3px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+
+.row {
+display: flex;
+
+
+
+}
